@@ -130,9 +130,32 @@ A List of Papers presented on CPSC 677 Advanced NLP course at Yale University 20
 
 ### Applications: finance -- presented by Gaurav Pathak
 ***
-[****]()
 
-[****]()
+### Applications: Unsupervised/Bayesian/Latent Variable Models -- presented by Brian Kitano
+***
+[**Neural Variational Inference for Text Processing**](https://arxiv.org/pdf/1511.06038.pdf)
 
-[****]()
+### Applications: Spectral learning -- presented by Hannah Lawrence
+***
+[**Diversity in Spectral Learning for Natural Language Processing**](http://www.aclweb.org/anthology/D15-1214)
 
+### Applications: Neural Information Retrieval -- presented by Danny Keller
+***
+[**A Deep Relevance Matching Model for Ad-hoc Retrieval**](https://arxiv.org/abs/1711.08611)
+
+[**Analysis of the Paragraph Vector Model for Information Retrieval**](https://ciir-publications.cs.umass.edu/getpdf.php?id=1242)
+
+### Applications: finance -- presented by Gaurav Pathak
+***
+[**A Deep Relevance Matching Model for Ad-hoc Retrieval**](https://arxiv.org/abs/1711.08611)
+
+### Applications: Sequence to Sequence -- presented by Jack Koch
+***
+[**Attention is All You Need**](https://arxiv.org/abs/1706.03762)
+
+### Applications: Summarization -- presented by Yi Chern Tan
+***
+[**Neural Document Summarization by Jointly Learning to Score and Select Sentences**](http://aclweb.org/anthology/P18-1061)
+
+### Applications: Temporal embeddings -- presented by Yavuz Nuzumlali
+***
