@@ -1,5 +1,5 @@
 # CPSC677-ANLP
-A List of Papers presented on CPSC 677 Advanced NLP course at Yale University 2018, which covers most areas in Natural Language Processing with carefully selected papers or tutorials.
+A List of Papers presented by students at CPSC677 Advanced NLP course at Yale University during 2018 Fall. It covers a majority popular areas in Natural Language Processing along with carefully selected papers or tutorials. The class was taught by Professor Dragomir Radev and it was the first of offering for this class. This github works as a introductory repo for NLP which can give you an idea of what sub-area it has. It also includes materials that can be found on http://aan.how/, which is a NLP database maintained by LILY Group at Yale.
 ### Neural Semi-Supervised Learning -- presented by Alex Fabbri
 ***
 [**Deep contextualized word representations**](https://arxiv.org/pdf/1802.05365.pdf)
