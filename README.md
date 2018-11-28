@@ -60,8 +60,79 @@ A List of Papers presented on CPSC 677 Advanced NLP course at Yale University 20
 
 [**Transforming Dependency Structures to Logical Forms for Semantic Parsing**](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44858.pdf)
 
-###  -- presented
+### Unsupervised Machine Translation -- presented by Yongjie Lin
+***
+[**Unsupervised Machine Translation Using Monolingual Corpora Only**](https://arxiv.org/abs/1711.00043)
+
+[**Phrase-Based & Neural Unsupervised Machine Translation**](https://arxiv.org/abs/1804.07755)
+
+### Dialogue Systems -- presented by Suyi Li
+***
+[**Global-Locally Self-Attentive Dialogue State Tracker**](https://arxiv.org/abs/1805.09655)
+
+[**Neural Approaches to Conversational AI**](https://drive.google.com/open?id=1zo8tJRTzVNMuYI018__UdNHjUmIOT_5v)
+
+### Question Answering -- presented by Talley Amir
+***
+[**SQuAD: 100,000+ Questions for Machine Comprehension of Text**](https://arxiv.org/pdf/1606.05250v3.pdf)
+
+[**A Neural Network for Factoid Question Answering over Paragraphs**](https://people.cs.umass.edu/~miyyer/pubs/2014_qb_rnn.pdf)
+
+### Character-level neural networks  -- presented by Angus Fong
+***
+[**Character-Aware Neural Language Models**](https://arxiv.org/abs/1508.06615)
+
+[**The Unreasonable Effectiveness of Recurrent Neural Networks**](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+### Sentence similarity and sentence embeddings -- presented by John Brandt
+***
+[**Quick-thoughts**](https://arxiv.org/abs/1803.02893)
+
+### Capsule networks for NLP -- presented by Will Merrill
+***
+[**Investigating Capsule Networks with Dynamic Routing for Text Classification**](https://arxiv.org/pdf/1804.00538.pdf)
+
+[**Zero-shot User Intent Detection via Capsule Neural Networks**](https://arxiv.org/abs/1809.00385)
+
+[**Identifying Aggression and Toxicity in Comments using Capsule Network**](http://aclweb.org/anthology/W18-4412)
+
+### Sentiment and opinion analysis -- presented by Ishita Chakraborty
+***
+[**Learning to Generate Reviews and discover sentiment**](https://arxiv.org/pdf/1704.01444.pdf)
+
+[**Aspect Based Sentiment Analysis with Gated CNN**](https://arxiv.org/pdf/1805.07043.pdf)
+
+[**Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank**](https://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)
+
+### Multilingual Embeddings -- presented by Davey Proctor
+***
+[**Unsupervised Multilingual Word Embeddings**](https://arxiv.org/abs/1808.08933)
+
+[**Massively Multilingual Word Embeddings**](https://arxiv.org/abs/1602.01925)
+
+### Network Analysis Methods -- presented by Noah Amsel
+***
+[**Inductive Representation Learning on Large Graphs**](https://papers.nips.cc/paper/6703-inductive-representation-learning-on-large-graphs.pdf)
+
+### Neural Text Generation -- presented by Tianwei She
+***
+[**Challenges in Data-to-Document Generation**](https://arxiv.org/pdf/1707.08052.pdf)
+
+[**Data-to-Text Generation with Content Selection and Planning**](https://arxiv.org/pdf/1809.00582.pdf)
+
+### Knowledge Graphs -- presented by Tomoe Mizutani
+***
+[**TransE: Translating Embeddings for Modeling Multi-relational Data**](https://www.utc.fr/~bordesan/dokuwiki/_media/en/transe_nips13.pdf)
+
+[**Relation Extraction with Matrix Factorization and Universal Schemas**](http://www.aclweb.org/anthology/N13-1008)
+
+[**ConvKB: A Novel Embedding Model for Knowledge Base Completion Based on Convolutional Neural Network**](http://aclweb.org/anthology/N18-2053)
+
+### Applications: finance -- presented by Gaurav Pathak
 ***
 [****]()
 
 [****]()
+
+[****]()
+
