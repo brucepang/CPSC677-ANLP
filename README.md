@@ -6,6 +6,10 @@ A List of Papers presented by students at CPSC677 Advanced NLP course at Yale Un
 
 [**Semi-supervised Learning with Deep Generative Models**](https://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models.pdf)
 
+[**Strong Baselines for Neural Semi-supervised Learning under Domain Shift**](https://arxiv.org/pdf/1804.09530.pdf)
+
+[**SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS**](https://arxiv.org/pdf/1609.02907.pdf)
+
 ### Transfer Learning -- presented by Irene Li
 ***
 [**Effective Domain Mixing for Neural Machine Translation**](https://nlp.stanford.edu/pubs/pryzant2017wmt.pdf)
